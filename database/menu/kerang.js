@@ -6,7 +6,7 @@ const kerang = (prefix, botName, ownerName) => {
    ╽
    ┠≽ *Prefix* : 「  ${prefix}  」
    ┠≽ *Creator* : ${ownerName}
-   ┠≽ *Version* : 0.0.5
+   ┠≽ *Version* : 2.0
    ╿
 ┯┷ *〈 ABOUT 〉*
 ╽
@@ -48,6 +48,6 @@ const kerang = (prefix, botName, ownerName) => {
    ┠≽ *${prefix}cantikcek*
    ┃ *Desc* : How Beautiful
    ╿ *${ownerName}*,
-   ╰╼≽ *Developer © ${botName}`
+   ╰╼≽ *ᴀʟɴʙᴏᴛs © ${botName}`
 }
 exports.kerang = kerang
