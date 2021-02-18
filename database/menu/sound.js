@@ -6,7 +6,7 @@ const sound = (prefix, botName, ownerName) => {
    ╽
    ┠≽ *Prefix* : 「  ${prefix}  」
    ┠≽ *Criador* : ${ownerName}
-   ┠≽ *Version* : 0.0.5
+   ┠≽ *Version* : 2.0
    ╿
 ┯┷ *〈 SOBRE 〉*
 ╽
@@ -30,6 +30,6 @@ const sound = (prefix, botName, ownerName) => {
    ┠≽ *${prefix}tts* <language code|text>
    ┃ *Desc* : Google Text To Speach
    ╿ *${ownerName}*,
-   ╰╼≽ *Developer © ${botName}`
+   ╰╼≽ *ᴀʟɴʙᴏᴛs © ${botName}`
 }
 exports.sound = sound
