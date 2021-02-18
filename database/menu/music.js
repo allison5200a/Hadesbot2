@@ -6,7 +6,7 @@ const music = (prefix, botName, ownerName) => {
    ╽
    ┠≽ *Prefix* : 「  ${prefix}  」
    ┠≽ *Creator* : ${ownerName}
-   ┠≽ *Version* : 0.0.5
+   ┠≽ *Version* : 2.0
    ╿
 ┯┷ *〈 ABOUT 〉*
 ╽
@@ -39,6 +39,6 @@ const music = (prefix, botName, ownerName) => {
    ┠≽ *${prefix}chord* <music_name>
    ┃ *Desc* : Search Chord Music Lyrics
    ╿ *${ownerName}*,
-   ╰╼≽ *Developer © ${botName}`
+   ╰╼≽ *ᴀʟɴʙᴏᴛs © ${botName}`
 }
 exports.music = music
