@@ -8,7 +8,8 @@ const help = (pushname, prefix, botName, ownerName, reqXp, uangku) => {
    ┠≽ *XP* : ${reqXp}
    ┠≽ *Grana* : ${uangku}
    ┠≽ *Registrado : ✔️
-   ╿
+   ┠≽ Meu Dono:) wa.me/558688036194
+   ╽
 ┯┷ *〈 BOT INFO 〉*
 ╽
 ┠≽ *Prefix* : 「  ${prefix}  」
