@@ -6,7 +6,7 @@ const group = (prefix, botName, ownerName) => {
    ╽
    ┠≽ *Prefix* : 「  ${prefix}  」
    ┠≽ *Criador* : ${ownerName}
-   ┠≽ *Versao* : 0.0.5
+   ┠≽ *Versao* : 2.0
    ╿
 ┯┷ *〈 ABOUT 〉*
 ╽
@@ -54,7 +54,7 @@ const group = (prefix, botName, ownerName) => {
    ┠≽ *${prefix}tagall5*
    ┃ *Desc* : Mencione Todos Os Membros
    ┠──────────────╼
-   ┠≽ *${prefix}add* <821074417113>
+   ┠≽ *${prefix}add* <55xxxxxxx>
    ┃ *Desc* : Add Membros
    ┠──────────────╼
    ┠≽ *${prefix}kick* <@tag>
@@ -90,6 +90,6 @@ const group = (prefix, botName, ownerName) => {
    ┠≽ *${prefix}antilinkgroup* <1/0>
    ┃ *Desc* : Ativando / Desativando a Anti Link Destaque
    ╿ *${ownerName}*,
-   ╰╼≽ *Developer © ${botName}`
+   ╰╼≽ *ᴀʟɴʙᴏᴛs © ${botName}`
 }
 exports.group = group
