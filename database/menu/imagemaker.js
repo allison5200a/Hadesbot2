@@ -6,7 +6,7 @@ const imagemaker = (prefix, botName, ownerName) => {
    ╽
    ┠≽ *Prefix* : 「  ${prefix}  」
    ┠≽ *Creator* : ${ownerName}
-   ┠≽ *Version* : 0.0.5
+   ┠≽ *Version* : 2.0
    ╿
 ┯┷ *〈 ABOUT 〉*
 ╽
@@ -81,6 +81,6 @@ const imagemaker = (prefix, botName, ownerName) => {
    ┠≽ *${prefix}herrypotter* <text>
    ┃ *Desc* : Make Herry Potter Image
    ╿ *${ownerName}*,
-   ╰╼≽ *Developer © ${botName}`
+   ╰╼≽ *ᴀʟɴʙᴏᴛs © ${botName}`
 }
 exports.imagemaker = imagemaker
