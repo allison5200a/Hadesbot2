@@ -6,7 +6,7 @@ const meme = (prefix, botName, ownerName) => {
    ╽
    ┠≽ *Prefix* : 「  ${prefix}  」
    ┠≽ *Creator* : ${ownerName}
-   ┠≽ *Version* : 0.0.5
+   ┠≽ *Version* : 2.0
    ╿
 ┯┷ *〈 ABOUT 〉*
 ╽
@@ -32,6 +32,6 @@ const meme = (prefix, botName, ownerName) => {
    ┠≽ *${prefix}memeindo*
    ┃ *Desc* : Send Random Meme [indo]
    ╿ *${ownerName}*,
-   ╰╼≽ *Developer © ${botName}`
+   ╰╼≽ *ᴀʟɴʙᴏᴛs © ${botName}`
 }
 exports.meme = meme
