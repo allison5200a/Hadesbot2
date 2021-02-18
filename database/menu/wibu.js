@@ -6,7 +6,7 @@ const wibu = (prefix, botName, ownerName) => {
    ╽
    ┠≽ *Prefix* : 「  ${prefix}  」
    ┠≽ *Creator* : ${ownerName}
-   ┠≽ *Version* : 0.0.5
+   ┠≽ *Version* : 2.0
    ╿
 ┯┷ *〈 ABOUT 〉*
 ╽
@@ -54,6 +54,6 @@ const wibu = (prefix, botName, ownerName) => {
    ┠≽ *${prefix}nekonime*
    ┃ *Desc* : Random Nekonime Image
    ╿ *${ownerName}*,
-   ╰╼≽ *Developer © ${botName}`
+   ╰╼≽ *ᴀʟɴʙᴏᴛs © ${botName}`
 }
 exports.wibu = wibu
