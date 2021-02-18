@@ -6,7 +6,7 @@ const information = (prefix, botName, ownerName) => {
    ╽
    ┠≽ *Prefix* : 「  ${prefix}  」
    ┠≽ *Creator* : ${ownerName}
-   ┠≽ *Version* : 0.0.5
+   ┠≽ *Version* : 2.0
    ╿
 ┯┷ *〈 ABOUT 〉*
 ╽
@@ -48,6 +48,6 @@ const information = (prefix, botName, ownerName) => {
    ┠≽ *${prefix}covidcountry* <country>
    ┃ *Desc* : Sending Covid-19 Information
    ╿ *${ownerName}*,
-   ╰╼≽ *Developer © ${botName}`
+   ╰╼≽ *ᴀʟɴʙᴏᴛs © ${botName}`
 }
 exports.information = information
