@@ -6,7 +6,7 @@ const stayonscreen = (prefix, botName, ownerName) => {
    ╽
    ┠≽ *Prefix* : 「  ${prefix}  」
    ┠≽ *Creator* : ${ownerName}
-   ┠≽ *Version* : 0.0.5
+   ┠≽ *Version* : 2.0
    ╿
 ┯┷ *〈 ABOUT 〉*
 ╽
@@ -30,6 +30,6 @@ const stayonscreen = (prefix, botName, ownerName) => {
    ┠≽ *${prefix}afk* <reason>
    ┃ *Desc* : AFK :V
    ╿ *${ownerName}*,
-   ╰╼≽ *Developer © ${botName}`
+   ╰╼≽ *ᴀʟɴʙᴏᴛs © ${botName}`
 }
 exports.stayonscreen = stayonscreen
