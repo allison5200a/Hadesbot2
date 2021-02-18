@@ -6,7 +6,7 @@ const fun = (prefix, botName, ownerName) => {
    ╽
    ┠≽ *Prefix* : 「  ${prefix}  」
    ┠≽ *Creator* : ${ownerName}
-   ┠≽ *Version* : 0.0.5
+   ┠≽ *Version* : 2.0
    ╿
 ┯┷ *〈 ABOUT 〉*
 ╽
@@ -45,6 +45,6 @@ const fun = (prefix, botName, ownerName) => {
    ┠≽ *${prefix}say* <text>
    ┃ *Desc* : Saying:v
    ╿ *${ownerName}*,
-   ╰╼≽ *Developer © ${botName}`
+   ╰╼≽ *ᴀʟɴʙᴏᴛs © ${botName}`
 }
 exports.fun = fun
