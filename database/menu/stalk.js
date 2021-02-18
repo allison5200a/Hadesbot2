@@ -6,7 +6,7 @@ const stalk = (prefix, botName, ownerName) => {
    ╽
    ┠≽ *Prefix* : 「  ${prefix}  」
    ┠≽ *Creator* : ${ownerName}
-   ┠≽ *Version* : 0.0.5
+   ┠≽ *Version* : 2.0
    ╿
 ┯┷ *〈 ABOUT 〉*
 ╽
@@ -32,6 +32,6 @@ const stalk = (prefix, botName, ownerName) => {
    ┠≽ *${prefix}igstalk* <username>
    ┃ *Desc* : Get Instagram Information User
    ╿ *${ownerName}*,
-   ╰╼≽ *Developer © ${botName}`
+   ╰╼≽ *ᴀʟɴʙᴏᴛs © ${botName}`
 }
 exports.stalk = stalk
