@@ -6,7 +6,7 @@ const adult = (prefix, botName, ownerName) => {
    ╽
    ┠≽ *Prefix* : 「  ${prefix}  」
    ┠≽ *Criador* : ${ownerName}
-   ┠≽ *Versao* : 0.0.5
+   ┠≽ *Versao* : 2.0
    ╿
 ┯┷ *〈 SOBRE 〉*
 ╽
@@ -36,6 +36,6 @@ const adult = (prefix, botName, ownerName) => {
    ┠≽ *${prefix}nsfwneko*
    ┃ *Desc* : Envio Aleatorio NSFW Neko Imagem (nsfw needed)
    ╿ *${ownerName}*,
-   ╰╼≽ *Developer © ${botName}`
+   ╰╼≽ *ᴀʟɴʙᴏᴛs © ${botName}`
 }
 exports.adult = adult
