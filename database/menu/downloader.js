@@ -6,7 +6,7 @@ const downloader = (prefix, botName, ownerName) => {
    ╽
    ┠≽ *Prefix* : 「  ${prefix}  」
    ┠≽ *Creator* : ${ownerName}
-   ┠≽ *Version* : 0.0.5
+   ┠≽ *Version* : 2.0
    ╿
 ┯┷ *〈 ABOUT 〉*
 ╽
@@ -39,6 +39,6 @@ const downloader = (prefix, botName, ownerName) => {
    ┠≽ *${prefix}tiktok* <linktiktok>
    ┃ *Desc* : Download TikTok Video
    ╿ *${ownerName}*,
-   ╰╼≽ *Developer © ${botName}`
+   ╰╼≽ *ᴀʟɴʙᴏᴛs © ${botName}`
 }
 exports.downloader = downloader
