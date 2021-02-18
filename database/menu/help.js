@@ -13,7 +13,7 @@ const help = (pushname, prefix, botName, ownerName, reqXp, uangku) => {
 ╽
 ┠≽ *Prefix* : 「  ${prefix}  」
 ┠≽ *Criador* : ${ownerName}
-┠≽ *Version* : 0.0.5
+┠≽ *Version* : 2.0
 ╿
 ┷┯ *〈 MENU 〉*
    ┠≽ *${prefix}logomakermenu*
@@ -40,6 +40,6 @@ const help = (pushname, prefix, botName, ownerName, reqXp, uangku) => {
    ┠≽ *${prefix}ownermenu*
    ┠≽ *${prefix}othermenu*
    ╿ *${ownerName}*,
-   ╰╼≽ *Developer © ${botName}`
+   ╰╼≽ *ᴀʟɴʙᴏᴛs © ${botName}`
 }
 exports.help = help
