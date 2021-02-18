@@ -6,7 +6,7 @@ const logomaker = (prefix, botName, ownerName) => {
    ╽
    ┠≽ *Prefix* : 「  ${prefix}  」
    ┠≽ *Creator* : ${ownerName}
-   ┠≽ *Version* : 0.0.5
+   ┠≽ *Version* : 2.0
    ╿
 ┯┷ *〈 ABOUT 〉*
 ╽
@@ -54,6 +54,6 @@ const logomaker = (prefix, botName, ownerName) => {
    ┠≽ *${prefix}pubglogo* <text|text>
    ┃ *Desc* : Make PUBG Logo
    ╿ *${ownerName}*,
-   ╰╼≽ *Developer © ${botName}`
+   ╰╼≽ *ᴀʟɴʙᴏᴛs © ${botName}`
 }
 exports.logomaker = logomaker
